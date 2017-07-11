@@ -22,7 +22,7 @@ apply plugin: 'docker'
 group = 'gloriapg'
 
 jar {
-    baseName = 'gloria-spring-boot-docker'
+    baseName = 'sentinella-spring-boot'
     version =  '0.1.0'
 }
 

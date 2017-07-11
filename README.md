@@ -1,5 +1,5 @@
 # motherfucker-spring-boot-docker
-![Oooola}](/images/fuckyeah.png)
+![Oooola}](/images/image.png)
 # Requirements
 * [Docker](https://docs.docker.com/engine/installation/)
 
@@ -10,7 +10,5 @@ $ ./gradlew build buildDocker
 # Docker RUN
 
 ``` bash
-$ docker run -p 8080:8080 -t gloriapg/gloria-spring-boot-docker
+$ docker run -p 8080:8080 -t gloriapg/sentinella-spring-boot
 ```
-## Song
-* [John Lennon - Mother](https://www.youtube.com/watch?v=CEnc3RQE2lg)
